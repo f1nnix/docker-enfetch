@@ -1,0 +1,15 @@
+certifi==2017.4.17
+chardet==3.0.3
+docker==2.4.2
+docker-pycreds==0.2.1
+idna==2.5
+mutagen==1.38
+ordereddict==1.1
+ovh==0.4.7
+pyaml==16.12.2
+python-wordpress-xmlrpc==2.3
+requests==2.17.3
+six==1.10.0
+urllib3==1.21.1
+websocket-client==0.44.0
+wordpress-api==1.2.1
